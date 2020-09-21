@@ -1,18 +1,10 @@
 # .Stl_Week_14_R
 # R_Programming_Supervised-and-Unsupervised_Learning-
 # R-project
-# TITLE
-
-Online Shoppers Intention : Apply Unsupervised learning algorithms.Clustering algorithms.
-
-
-Ad Click Prediction:Using the advertising dataset : Apply Supervised learning algorithms.
-
-
-
 
 # AUTHOR
 Built by Stella Kimani
+# Title
 
 # PROJECT DESCRIPTION :Part 1 and 2
 Carrefour Kenya and are currently undertaking a project that will inform the marketing department on the most relevant marketing strategies that will result in the highest number of sales. As a data analyst i wil divide this project into four parts, explore a recent marketing dataset by performing various unsupervised learning techniques and later providing recommendations based on my findings.
@@ -32,7 +24,7 @@ Anomaly detection
 The objective of this task being fraud detection in the sales dataset.
  
 # SET UP/ INSTALLATION REQUIREMENTS
-Clone this Repo by Running: 
+Clone this Repo by Running:https://github.com/Stella-kimani/.Stl_Week_14_R.git
 
 # Technologies Used:
 R programming
