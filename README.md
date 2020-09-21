@@ -19,7 +19,8 @@ Association Rule Mining (also called as Association Rule Learning) is a common t
 
 # PROJECT DESCRIPTION : Part 4
 Anomaly detection
-The objective of this task being fraud detection in the sales dataset.
+
+The objective of this task being fraud detection in the sales dataset using anomalies detection algorithms.
  
 # SET UP/ INSTALLATION REQUIREMENTS
 Clone this Repo by Running:https://github.com/Stella-kimani/.Stl_Week_14_R.git
