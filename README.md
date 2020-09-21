@@ -1,6 +1,4 @@
-# .Stl_Week_14_R
-# R_Programming_Supervised-and-Unsupervised_Learning-
-# R-project
+# Stl_Week_14_R
 
 # AUTHOR
 Built by Stella Kimani
